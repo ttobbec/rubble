@@ -103,3 +103,7 @@ Pronunciado "Rãbou" (por causa do telescópio). Uma #spokenDSL (microlinguagem 
 		</tr>
 	</tbody>
 </table>
+
+## Praticando
+
+Para entrar no grupo moderado de falantes, envie zapzap para topesi topesi tosi to tosi kasi kasi to te kapesi te.
